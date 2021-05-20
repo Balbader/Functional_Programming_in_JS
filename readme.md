@@ -28,7 +28,7 @@ Functional programming makes code easier to read, understand, test, and debug.
 
 * Understand the Elm Architecture
 
-[https://www.amazon.com/dp/B08CZZ4FQQ](https://www.amazon.com/dp/B08CZZ4FQQ)
+[https://www.amazon.com/fr](https://www.amazon.fr/Functional-Programming-JavaScript-Cristian-Salcescu/dp/B08YQFWGJM/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TTY2AUB79W0O&dchild=1&keywords=functional+programming+in+javascript&qid=1621526945&sprefix=functional+pro%2Caps%2C163&sr=8-2)
 
 [https://www.amazon.co.uk/dp/B08CZZ4FQQ](https://www.amazon.co.uk/dp/B08CZZ4FQQ)
 
